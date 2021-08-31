@@ -1,0 +1,109 @@
+{
+  "kind": "ast.root",
+  "content": [
+    {
+      "kind": "command",
+      "name": "documentclass",
+      "args": [
+        {
+          "kind": "arg.group",
+          "content": [
+            {
+              "kind": "text.string",
+              "content": "article"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "softbreak"
+    },
+    {
+      "kind": "command",
+      "name": "usepackage",
+      "args": [
+        {
+          "kind": "arg.group",
+          "content": [
+            {
+              "kind": "text.string",
+              "content": "amsmath"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "env",
+      "name": "document",
+      "args": [],
+      "content": [
+        {
+          "kind": "text.string",
+          "content": "ab"
+        },
+        {
+          "kind": "space"
+        },
+        {
+          "kind": "text.string",
+          "content": "c"
+        },
+        {
+          "kind": "softbreak"
+        },
+        {
+          "kind": "text.string",
+          "content": "d"
+        },
+        {
+          "kind": "space"
+        },
+        {
+          "kind": "inlineMath",
+          "content": [
+            {
+              "kind": "math.character",
+              "content": "x"
+            },
+            {
+              "kind": "math.character",
+              "content": "+"
+            },
+            {
+              "kind": "math.character",
+              "content": "y"
+            }
+          ]
+        },
+        {
+          "kind": "space"
+        },
+        {
+          "kind": "text.string",
+          "content": "e"
+        },
+        {
+          "kind": "env.math.align",
+          "name": "align",
+          "args": [],
+          "content": [
+            {
+              "kind": "math.character",
+              "content": "i"
+            },
+            {
+              "kind": "math.character",
+              "content": "+"
+            },
+            {
+              "kind": "math.character",
+              "content": "j"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

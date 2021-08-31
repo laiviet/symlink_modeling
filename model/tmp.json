@@ -1,0 +1,1671 @@
+{
+  "kind": "ast.root",
+  "content": [
+    {
+      "kind": "env",
+      "name": "figure*",
+      "args": [],
+      "content": [
+        {
+          "kind": "env",
+          "name": "center",
+          "args": [],
+          "content": [
+            {
+              "kind": "command",
+              "name": "includegraphics",
+              "args": [
+                {
+                  "kind": "arg.group",
+                  "content": [
+                    {
+                      "kind": "text.string",
+                      "content": "Figure5.png"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "space"
+            },
+            {
+              "kind": "command",
+              "name": "caption",
+              "args": [
+                {
+                  "kind": "arg.group",
+                  "content": [
+                    {
+                      "kind": "arg.group",
+                      "content": [
+                        {
+                          "kind": "command",
+                          "name": "bf",
+                          "args": []
+                        },
+                        {
+                          "kind": "text.string",
+                          "content": "Quiescence"
+                        },
+                        {
+                          "kind": "space"
+                        },
+                        {
+                          "kind": "text.string",
+                          "content": "stabilizes"
+                        },
+                        {
+                          "kind": "space"
+                        },
+                        {
+                          "kind": "text.string",
+                          "content": "global"
+                        },
+                        {
+                          "kind": "space"
+                        },
+                        {
+                          "kind": "text.string",
+                          "content": "brain"
+                        },
+                        {
+                          "kind": "space"
+                        },
+                        {
+                          "kind": "text.string",
+                          "content": "dynamics"
+                        },
+                        {
+                          "kind": "space"
+                        },
+                        {
+                          "kind": "text.string",
+                          "content": "in"
+                        },
+                        {
+                          "kind": "space"
+                        },
+                        {
+                          "kind": "arg.group",
+                          "content": [
+                            {
+                              "kind": "command",
+                              "name": "em",
+                              "args": []
+                            },
+                            {
+                              "kind": "text.string",
+                              "content": "C."
+                            },
+                            {
+                              "kind": "space"
+                            },
+                            {
+                              "kind": "text.string",
+                              "content": "elegans"
+                            }
+                          ]
+                        },
+                        {
+                          "kind": "space"
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "("
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "A"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ")"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "We"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "analyze"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "whole"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "-"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "brain"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "dynamics"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "from"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "previous"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "experiments"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "in"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "which"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "worms"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "were"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "exposed"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "to"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "varying"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "levels"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "of"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command.text",
+                          "arg": {
+                            "kind": "arg.group",
+                            "content": [
+                              {
+                                "kind": "text.string",
+                                "content": "O"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "2"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "concentration"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "command",
+                      "name": "cite",
+                      "args": [
+                        {
+                          "kind": "arg.group",
+                          "content": [
+                            {
+                              "kind": "text.string",
+                              "content": "Nichols2017"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "We"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "show"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "background"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "subtracted"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "fluorescence"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "signal"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command",
+                          "name": "Delta",
+                          "args": []
+                        },
+                        {
+                          "kind": "math.character",
+                          "content": "F"
+                        },
+                        {
+                          "kind": "math.character",
+                          "content": "/"
+                        },
+                        {
+                          "kind": "math.character",
+                          "content": "F"
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "0"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "from"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "101"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "neurons"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "while"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command.text",
+                          "arg": {
+                            "kind": "arg.group",
+                            "content": [
+                              {
+                                "kind": "text.string",
+                                "content": "O"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "2"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "concentration"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "changed"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "in"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "6"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "minute"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "periods"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ":"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "low"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command.text",
+                          "arg": {
+                            "kind": "arg.group",
+                            "content": [
+                              {
+                                "kind": "text.string",
+                                "content": "O"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "2"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "("
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "10"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "command",
+                      "name": "%",
+                      "args": []
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ")"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "induces"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "a"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "quiescent"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "state"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ";"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "high"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command.text",
+                          "arg": {
+                            "kind": "arg.group",
+                            "content": [
+                              {
+                                "kind": "text.string",
+                                "content": "O"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "2"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "("
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "21"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "command",
+                      "name": "%",
+                      "args": []
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ")"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "induces"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "an"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "active"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "state"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "("
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "B"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ")"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "We"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "plot"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "distribution"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "of"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "maximum"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "real"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "eigenvalues"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "("
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command",
+                          "name": "lambda",
+                          "args": []
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "r"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ")"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "for"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "active"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "and"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "quiescent"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "states"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "The"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "active"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "state"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "is"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "associated"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "with"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "substantial"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "unstable"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "dynamics"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ","
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "while"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "dynamics"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "of"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "quiescent"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "state"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "is"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "predominately"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "stable"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "which"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "is"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "consistent"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "with"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "putative"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "stable"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "fixed"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "point"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "dynamics"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "("
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "C"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ")"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "We"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "plot"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "average"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "maximum"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "real"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "eigenvalue"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "as"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "command.text",
+                          "arg": {
+                            "kind": "arg.group",
+                            "content": [
+                              {
+                                "kind": "text.string",
+                                "content": "O"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "2"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "concentration"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "is"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "changed"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "We"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "align"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "time"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "series"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "from"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "different"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "worms"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "to"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "first"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "frame"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "of"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "increased"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "inlineMath",
+                      "content": [
+                        {
+                          "kind": "math.character",
+                          "content": "O"
+                        },
+                        {
+                          "kind": "subscript",
+                          "arg": {
+                            "kind": "math.character",
+                            "content": "2"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "concentration"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "and"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "show"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "accompanying"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "increase"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "in"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "maximum"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "real"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "eigenvalue"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": ","
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "which"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "crosses"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "and"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "remains"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "near"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "to"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "the"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "instability"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "boundary"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "softbreak"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "The"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "shaded"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "region"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "corresponds"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "to"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "a"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "bootstrapped"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "95"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "command",
+                      "name": "%",
+                      "args": []
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "confidence"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "interval"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "and"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "curves"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "were"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "smoothed"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "using"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "a"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "5"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "-"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "frame"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "running"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "average"
+                    },
+                    {
+                      "kind": "space"
+                    },
+                    {
+                      "kind": "text.string",
+                      "content": "."
+                    },
+                    {
+                      "kind": "space"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "kind": "softbreak"
+            },
+            {
+              "kind": "command.label",
+              "name": "label",
+              "label": "fig:Panel5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

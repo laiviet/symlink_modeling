@@ -1,0 +1,9 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+ab c
+d $x + y$ e
+\begin{align}
+    i + j
+\end{align}
+\end{document
